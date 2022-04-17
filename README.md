@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neorb
-- 👀 I’m interested in ... Android and React Native Developer
-- 🌱 I’m currently learning ...Kotlin and React Native
-- 💞️ I’m looking to collaborate on any project related with Android or React Native Project
+- 👀 I’m interested in Android Apps
+- 🌱 I’m currently learning ...Kotlin and Java
+- 💞️ I’m looking to collaborate on any project related with Android and Web apps
 - 📫 How to reach me out via  email: anelramirezbaez@gmail.com
 
 <!---
