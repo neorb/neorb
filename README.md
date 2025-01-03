@@ -64,10 +64,11 @@ I specialize in building **mobile** and **web applications** using tools like **
 ---
 
 ## 📞 **Contact Me**  
-- 📧 **Email**: [Email Address](anelramirezbaez@gmail.com)   
-- 💻 **GitHub**: [Porfolio](https://neorb.github.io/neo.software.engineer.github.io/)  
-- 📺 **YouTube**: [YouTube Channel](https://www.youtube.com/CodigoDidactico)  
-- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/anelandroidprogramer)  
+
+- 📧 **Email**: <a href="mailto:anelramirezbaez@gmail.com" target="_blank">Email Address</a>  
+- 💻 **GitHub**: <a href="https://neorb.github.io/neo.software.engineer.github.io/" target="_blank">Portfolio</a>  
+- 📺 **YouTube**: <a href="https://www.youtube.com/CodigoDidactico" target="_blank">YouTube Channel</a>  
+- 💼 **LinkedIn**: <a href="https://linkedin.com/in/anelandroidprogramer" target="_blank">LinkedIn Profile</a>  
 
 ---
 
