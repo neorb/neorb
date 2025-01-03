@@ -28,14 +28,14 @@ I specialize in building **mobile** and **web applications** using tools like **
 ---
 
 ## 📚 **Course Projects (Udacity)**  
+## 📚 **Education & Certifications**  
 
-### 🌐 **Responsive Web Design Project**  
-- Developed a fully responsive **restaurant website** optimized for mobile and desktop.  
-- Built with **HTML5, CSS3, and JavaScript** for performance and accessibility.  
-
-### 🌦️ **Weather Journal App**  
-- Created a web app to fetch and display weather data using **OpenWeatherMap API**.  
-- Utilized **asynchronous programming** to handle API requests.  
+- 🎓 **AWS Machine Learning Nanodegree Program** - *Udacity* *(Oct 2024)*  ![AI](https://img.shields.io/badge/AI-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+- 📱 **Advance in Kotlin** - *Coursera* *(July 2023)*  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+- 🧠 **AI Programming with Python Nanodegree Program** - *Udacity* *(Oct 2023)*  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+- 💻 **Intro to Programming Nanodegree Program** - *Udacity* *(April 2022)*   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- 📲 **Android Developer Nanodegree Program** - *Udacity* *(April 2019)*  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+- 🌐 **Mobile Web Specialist Nanodegree Program** - *Udacity* *(June 2017)*  ![Web](https://img.shields.io/badge/Web-FF6F00?style=flat&logo=google-chrome&logoColor=white)  
 
 ---
 
