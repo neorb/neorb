@@ -27,7 +27,6 @@ I specialize in building **mobile** and **web applications** using tools like **
 
 ---
 
-## 📚 **Course Projects (Udacity)**  
 ## 📚 **Education & Certifications**  
 
 - 🎓 **AWS Machine Learning Nanodegree Program** - *Udacity* *(Oct 2024)*  ![AI](https://img.shields.io/badge/AI-4285F4?style=flat&logo=google-cloud&logoColor=white)  
